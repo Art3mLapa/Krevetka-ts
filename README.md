@@ -20,4 +20,4 @@ Krevetka-ts - полностью с нуля переписанная прогр
 Исходный код защищён лицензией CC BY-NC-SA 4.0
 
 # Thanks
-[onejeuu](https://github.com/onejeuu) ([@scbanan](t.me/scbanan)) - HTML Design, [Binary templates](https://github.com/onejeuu/sc-file/blob/4.0-dev/templates/DIRMAP.bt)
+[onejeuu](https://github.com/onejeuu) ([@scbanan](t.me/scbanan)) - HTML Design, [Binary templates](https://github.com/onejeuu/sc-file/blob/master/templates/TORRENT.BIN.bt)
