@@ -1,9 +1,9 @@
-import * as fs from "fs";
-import * as path from "path";
-import * as child_process from "child_process";
-import * as axios from "axios";
-import * as express from "express";
-import * as crypto from "crypto";
+import fs from "fs";
+import path from "path";
+import child_process from "child_process";
+import axios from "axios";
+import express from "express";
+import crypto from "crypto";
 
 interface AuthResponse {
     token: string;
@@ -109,8 +109,7 @@ function buildDiffJson(
 async function monitor() {
     console.log("[DEBUG] Starting monitor loop.");
 
-    const authUrl =
-        "";
+    const authUrl = "";
 
     let token: string;
     try {
